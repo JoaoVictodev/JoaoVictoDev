@@ -11,5 +11,5 @@
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovictodev&theme=vue-dark&hide_border=true" alt="muskanrani" />
 <br/>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='center' src='https://media.tenor.com/oir5PjIye9sAAAAi/sonic.gif' width='200'>
 
