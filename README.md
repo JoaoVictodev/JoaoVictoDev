@@ -5,8 +5,8 @@
 <br/> 
 
 <h2> Github Stats </h2> 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictodev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovictodev&theme=vue-dark&hide_border=true" alt="muskanrani" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictodev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="joaovictordev" />
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovictodev&theme=vue-dark&hide_border=true" alt="joaovictodev" />
 <br/>
 
 <img align='center' src='https://media.tenor.com/oir5PjIye9sAAAAi/sonic.gif' width='200'>
